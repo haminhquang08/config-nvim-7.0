@@ -1,3 +1,4 @@
+# Quang
 #  How to config nvim 7.0 ![N](https://i.ibb.co/F39VVjK/vim-icon-1.png) 
 ## ------------------
 
